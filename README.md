@@ -3,7 +3,7 @@
 
 - The link to the playlist: [📂 Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
-- ✍️ Assignments: [link](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode itself but I will update it here)
+- ✍️ Assignments: [link](https://github.com/jayR3/DSA-Practive-Java/tree/master/assignments) (solutions can be found on LeetCode itself but I will update it here)
 
 - Connect with me on [linkedin](http://www.linkedin.com/in/amosuoluwatosin)
 
