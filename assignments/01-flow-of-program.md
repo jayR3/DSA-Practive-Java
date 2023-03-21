@@ -1,5 +1,4 @@
 # pseudocode to take a year and find whether it's a leap year or or not
-
 start
 input year(y)
 if y < 1000:
